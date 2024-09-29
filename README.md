@@ -1,8 +1,11 @@
-# React + Vite
+# REACT-THREEjs-DEMO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Visit the webDemo [here](https://reactthreefiberdemo.netlify.app/)
 
-Currently, two official plugins are available:
+This is a 3D web demo made with the React library as well as the Fiber library, which is built upon the three.js library that powers 3D scenes inside the browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+`What to expect?`
+
+A demo of moody lighting and some interaction when hovering and clicking objects in the scene, you can pan and traverse the scene using the mouse or taping and holding the screen in mobile devices...
+
+I hope you like it and have a good day! :)
