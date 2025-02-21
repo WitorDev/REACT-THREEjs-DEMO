@@ -6,6 +6,8 @@ This is a 3D web demo made with the React library as well as the Fiber library, 
 
 `What to expect?`
 
+![image](https://github.com/user-attachments/assets/809f888e-f1bc-49b1-a65a-924ffe852615)
+
 A demo of moody lighting and some interaction when hovering and clicking objects in the scene, you can pan and traverse the scene using the mouse or taping and holding the screen in mobile devices...
 
 I hope you like it and have a good day! :)
